@@ -1,0 +1,72 @@
+[
+  {
+    "id" : 1,
+    "first_name" : "Ali",
+    "last_name" : "Can",
+    "email" : "alican@gmail.com",
+    "gender" : "male"
+  },
+  {
+    "id" : 2,
+    "first_name" : "Sally",
+    "last_name" : "John",
+    "email" : "sally@gmail.com",
+    "gender" : "female"
+  },
+  {
+    "id" : 3,
+    "first_name" : "Corey",
+    "last_name" : "Cally",
+    "email" : "cory@gmail.com",
+    "gender" : "demale"
+  },
+  {
+    "id" : 4,
+    "first_name" : "Cam",
+    "last_name" : "Camy",
+    "email" : "cam@gmail.com",
+    "gender" : "male"
+  },
+  {
+    "id" : 5,
+    "first_name" : "Sammy",
+    "last_name" : "Cook",
+    "email" : "sammy@gmail.com",
+    "gender" : "male"
+  },
+  {
+    "id" : 6,
+    "first_name" : "Asley",
+    "last_name" : "Fry",
+    "email" : "asley@gmail.com",
+    "gender" : "female"
+  },
+  {
+    "id" : 7,
+    "first_name" : "Linny",
+    "last_name" : "lin",
+    "email" : "linny@gmail.com",
+    "gender" : "female"
+  },
+  {
+    "id" : 8,
+    "first_name" : "Fay",
+    "last_name" : "Forry",
+    "email" : "fay@gmail.com",
+    "gender" : "female"
+  },
+  {
+    "id" : 9,
+    "first_name" : "Jonh",
+    "last_name" : "Wick",
+    "email" : "john@gmail.com",
+    "gender" : "male"
+  },
+  {
+    "id" : 10,
+    "first_name" : "Fred",
+    "last_name" : "Fredy",
+    "email" : "fred@gmail.com",
+    "gender" : "male"
+  }
+]
